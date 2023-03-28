@@ -61,7 +61,6 @@ Output() {
   # $LOG_TOOL \[$(date "+%Y-%m-%d %H.%M.%S")\] "$@"
 }
 #endregion
-
 #region Write to Repair Tool log (transcript?)
 WriteLog() {
 
